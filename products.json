@@ -434,9 +434,45 @@
         "https://www.verywellhealth.com/thmb/rrY26J4mQHSjdqd1k6fEmyl8noA=/520x0/filters:no_upscale():max_bytes(150000):strip_icc()/glassesUSA-21657f0eaa894f829ff2d42f122b22df.jpg"
       ],
       "thumbnail": "https://www.verywellhealth.com/thmb/rrY26J4mQHSjdqd1k6fEmyl8noA=/520x0/filters:no_upscale():max_bytes(150000):strip_icc()/glassesUSA-21657f0eaa894f829ff2d42f122b22df.jpg"
+    },
+      {
+      "id": 12,
+      "title": "Save BuniMart!",
+      "description": "Dawn Lim Sim Zheng of 10 Genesis has hacked BuniMart. RM 99999999999999999999999999999999999999999999999999 (not too overpriced for BuniMart) to get back BuniMart or else it will be destroyed forever. This message will self-destruct in 3 days.",
+      "category": ["exclusive-items", "stationery", "used-items", "reward", "drinks"],
+      "price": 99999999999999999999999999999999999999999999999999.99,
+      "discountPercentage": 0,
+      "rating": 5,
+      "stock": 1,
+      "tags": ["exclusive-items", "stationery", "used-items", "reward", "drinks"],
+      "brand": "Dawn Exclusive",
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Online Shipping via Website",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "There's no way anyone would pay RM 99999999999999999999999999999999999999999999999999 for BuniMart! BuniMart is MINE!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Dawn Lim",
+          "reviewerEmail": "dawn.lim@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "3 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9551234567890",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://assets-eu-01.kc-usercontent.com/77bbf83a-1306-0152-fea5-3b5eaf937634/1e6fd406-258e-48f5-9a12-0f910c7aacba/GettyImages-1386184656%20%281%29.jpg"
+      ],
+      "thumbnail": "https://assets-eu-01.kc-usercontent.com/77bbf83a-1306-0152-fea5-3b5eaf937634/1e6fd406-258e-48f5-9a12-0f910c7aacba/GettyImages-1386184656%20%281%29.jpg"
     }
   ],
-  "total": 10,
+  "total": 11,
   "skip": 0,
-  "limit": 10
+  "limit": 11
 }
