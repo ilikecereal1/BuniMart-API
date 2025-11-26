@@ -7,4 +7,4 @@ This is the BuniMart API that should be used to route requests for products, cat
 ### If you know what you're doing:
 Fork this repository, add your changes and make a pull request.
 #### Note for people who want to directly contribute:
-Do not force push this repository unless you know what you are doing, please use pull requests. 
+Do not force push this repository unless you ***really*** know what you are doing, please use pull requests instead to resolve changes. 
