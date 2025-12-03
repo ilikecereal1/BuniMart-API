@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Casio Scientific Calculator FX-570EX",
     "description": "Reliable used scientific calculator suitable for secondary and college students. Fully functional with minor cosmetic wear.",
-    "category": "stationery",
+    "category": ["stationery"],
     "price": 999999.99,
     "discountPercentage": 10,
     "rating": 4.5,
@@ -44,7 +44,7 @@
     "id": 2,
     "title": "A4 Ring Binder File (Used)",
     "description": "Durable used binder in good condition, perfect for organizing class notes and assignments.",
-    "category": "stationery",
+    "category": ["stationery"],
     "price": 67.67,
     "discountPercentage": 10,
     "rating": 4.2,
@@ -85,7 +85,7 @@
     "id": 3,
     "title": "Used Mechanical Pencil Set",
     "description": "Set of 14 mechanical pencils in working condition, suitable for everyday school use.",
-    "category": "stationery",
+    "category": ["stationery"],
     "price": 1299.99,
     "discountPercentage": 10,
     "rating": 4,
@@ -126,7 +126,7 @@
     "id": 4,
     "title": "Used School Bag (Standard Size)",
     "description": "Gently used school bag with spacious compartments. Suitable for primary or secondary school students.",
-    "category": "used-items",
+    "category": ["used-items"],
     "price": 999.99,
     "discountPercentage": 10,
     "rating": 4.3,
@@ -160,16 +160,14 @@
       "barcode": "9553344556677",
       "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
     },
-    "images": [
-      "/schoolbag.jpg"
-    ],
+    "images": ["/schoolbag.jpg"],
     "thumbnail": "/schoolbag.jpg"
   },
   {
     "id": 5,
     "title": "Used Water Bottle 500ml",
     "description": "Reusable 500ml water bottle, cleaned and sanitized. Ideal for school use.",
-    "category": "used-items",
+    "category": ["used-items"],
     "price": 499.99,
     "discountPercentage": 10,
     "rating": 3.9,
@@ -251,7 +249,7 @@
     "id": 7,
     "title": "Mixue Lemonade Drink",
     "description": "Mixue Lemonade originated from a passion for crafting the perfect citrus drink. The journey began with a vision to create a beverage that goes beyond the ordinary. For all 80% and above scorers, they can earn a Mixue Lemonade, free of charge!",
-    "category": "drinks",
+    "category": ["drinks"],
     "price": 2.99,
     "discountPercentage": 100,
     "rating": 5,
@@ -292,7 +290,7 @@
     "id": 8,
     "title": "Artline 500A Whiteboard Marker Medium Point 6 Colours",
     "description": "Writing on the whiteboard has never been easier! With the Artline 500A Whiteboard Marker Medium Point, you can now answer the teacher's questions on the board without borrowing their marker and making them annoyed! A set of 6 markers for only RM20.",
-    "category": "stationery",
+    "category": ["stationery"],
     "price": 299.99,
     "discountPercentage": 10,
     "rating": 4.2,
@@ -379,7 +377,7 @@
     "id": 10,
     "title": "Elroy's Exclusive Drumsticks",
     "description": "Elroy's Exclusive drum sticks were molded under strict quality control standards from carefully selected wood materials and is renowned for their consistent high quality. Get this premium and exclusive drumsticks for only RM 1999!",
-    "category": "exclusive-items",
+    "category": ["exclusive-items"],
     "price": 1999.99,
     "discountPercentage": 0.00001,
     "rating": 5,
@@ -419,7 +417,7 @@
     "id": 11,
     "title": "BuniMart Optic Glasses",
     "description": "BuniMart Optic Glasses are glasses designed for ease of use and all-day wearability. Made by the renouned Ms. Buni, and crafted from titanium.",
-    "category": "exclusive-items",
+    "category": ["exclusive-items"],
     "price": 1999.99,
     "discountPercentage": 20,
     "rating": 5,
@@ -501,5 +499,39 @@
     },
     "images": ["/hack.jpg"],
     "thumbnail": "/hack.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Graph Paper",
+    "description": "Standard A4 graph paper suitable for math, geometry and geometry dash sketches.",
+    "category": ["stationery"],
+    "price": 2.5,
+    "discountPercentage": 10,
+    "rating": 4.8,
+    "stock": 120,
+    "tags": ["stationery"],
+    "brand": "BuniMart Exclusive",
+    "warrantyInformation": "No warranty (consumable item)",
+    "shippingInformation": "Standard delivery via courier",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good quality paper and accurate grid layout.",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Lychee Wayne",
+        "reviewerEmail": "alex.tan@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "7-day return for unused items",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2025-04-30T09:41:02.053Z",
+      "updatedAt": "2025-04-30T09:41:02.053Z",
+      "barcode": "9551234567890",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": ["/graphpaper.jpg"],
+    "thumbnail": "/graphpaper.jpg"
   }
 ]
