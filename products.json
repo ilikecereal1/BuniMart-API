@@ -502,17 +502,17 @@
   },
   {
     "id": 13,
-    "title": "Graph Paper",
-    "description": "Standard A4 graph paper suitable for math, geometry and geometry dash sketches.",
+    "title": "A Single Piece of Graph Paper",
+    "description": "A single piece of standard A4 graph paper suitable for math, geometry and geometry dash sketches.",
     "category": ["stationery"],
-    "price": 2.5,
+    "price": 2.99,
     "discountPercentage": 10,
     "rating": 4.8,
     "stock": 120,
     "tags": ["stationery"],
     "brand": "BuniMart Exclusive",
     "warrantyInformation": "No warranty (consumable item)",
-    "shippingInformation": "Standard delivery via courier",
+    "shippingInformation": "In-school delivery",
     "availabilityStatus": "In Stock",
     "reviews": [
       {
